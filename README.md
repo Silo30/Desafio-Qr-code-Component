@@ -36,12 +36,11 @@ Esta é a minha solução para o [desafio "QR code component" na plataforma Fron
 
 ```html
 <link rel="preconnect">
+```
+Eu não conhecia o atributo "preconnect" até fazer este desafio. estou ansioso para usá-lo novamente no futuro
 
-não conhecia o atributo "preconnect" até fazer este desafio. estou ansioso para usá-lo novamente no futuro
-```
-```md
-me aprofundei mais na customização de Markdown ao fazer este "README"
-```
+Também me aprofundei mais na customização de Markdown ao fazer este "README".
+
 
 ### Recursos Úteis
 
@@ -51,5 +50,5 @@ me aprofundei mais na customização de Markdown ao fazer este "README"
 ## Autor
 
 - LinkedIn - [Silo de Menezes](www.linkedin.com/in/silo-menezes-648920197)
-- Frontend Mentor - [@Silo30](https://www.frontendmentor.io/profile/Silo30)
-- Github - [@Silo30](https://github.com/Silo30)
+- Frontend Mentor - [Silo30](https://www.frontendmentor.io/profile/Silo30)
+- Github - [Silo30](https://github.com/Silo30)

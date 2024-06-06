@@ -1,11 +1,15 @@
 .corpo {
  background-color: hsl(212, 45%, 89%);
  font-family: 'Outfit';
- display: flex;
- justify-content: center;
- align-items: center;
  flex-direction: column;
- padding-top: 90px;
+}
+
+main {
+    height: 95vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
 }
 
 .caixa {
